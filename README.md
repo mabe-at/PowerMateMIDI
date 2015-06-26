@@ -1,5 +1,5 @@
 # PowerMateMIDI
-Simple midi-controlled mute button app for Griffin PowerMate used by IT-Keller podcast.
+Simple midi-controlled mute-button app for Griffin PowerMate used by [IT-Keller podcast](https://it-keller.at).
 
 ## Libraries
 * Hid Library (https://github.com/mikeobrien/HidLibrary)
